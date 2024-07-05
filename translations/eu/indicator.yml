@@ -85,7 +85,7 @@ map_fullscreen_exit: Mapatik pantaila osora ateratzea
 map_slider_back: Ikusi aurreko denboraldirako mapen datuak
 map_slider_forward: Ikusi hurrengo denbora-tarterako maparen datuak
 map_slider_keyboard: Ikusi maparen datuak denbora-tarte osoan,
-ezkerreko eta eskuineko gezi-teklak erabilita
+  ezkerreko eta eskuineko gezi-teklak erabilita
 annotation_series_break: Seriearen haustura
 empty_metadata_placeholder_sources: Ez dago eskuragarri iturri honetarako
 proxy: Proxy
