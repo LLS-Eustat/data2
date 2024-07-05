@@ -30,14 +30,14 @@ loading_map: Mapa kargatzen
 map: Mapa
 national_metadata: Metadatu nazionalak
 national_metadata_blurb: Taula honek GJHen adierazletik hurbilen dagoen eta eskuragarria den %country.adjective adierazle errealerako metadatuak ematen ditu.
-Kontuan izan %country.adjective GJHen adierazle globala guztiz eskuragarri denean ere,
-taula hau kontsultatu daitekeela metodologia nazionalari eta metadatu espezifikoei 
-buruzko informazioa lortzeko.
+  Kontuan izan %country.adjective GJHen adierazle globala guztiz eskuragarri denean ere,
+  taula hau kontsultatu daitekeela metodologia nazionalari eta metadatu espezifikoei 
+  buruzko informazioa lortzeko.
 no_data_hint: Ez dago aukerarik eskuragarri aurreko aukeraketak direla eta
 select_all: Dena hautatu
 series: Seriea
 series_help: Datuen desagregazioak ikusteko, aukeratu jarraian goitibeherako zerrenden kategoriak. 
-Batzuk ez dira erabilgarri egongo goragoko mailan kategoriaren bat aukeratu arte
+  Batzuk ez dira erabilgarri egongo goragoko mailan kategoriaren bat aukeratu arte
 source: Iturria
 sources: Iturriak
 sub_categories: Azpikategoriak
@@ -60,7 +60,7 @@ chart_annotation: Grafiko batean idaztea
 annotation_2030_target: 2030erako adierazlearen helburua
 plot_legend_description: 'Grafikoaren legenda: grafikoan sartutako lerroen zerrenda'
 data_keyboard_navigation: Sakatu Enter datu-puntuetan
-ezkerreko eta eskuineko gezi-teklekin.
+  ezkerreko eta eskuineko gezi-teklekin.
 data_tabular_alternative: Datuak taula forman ikusteko, joan Taula pestaña.
 announce_data_removed: Grafiko eta taula eguneratuak datuak kentzeko.
 announce_data_added: Grafiko eta taula eguneratuak datuak sartzeko.
@@ -90,8 +90,8 @@ annotation_series_break: Seriearen haustura
 empty_metadata_placeholder_sources: Ez dago eskuragarri iturri honetarako
 proxy: Proxy
 proxy_description: Adierazle honek Nazio Batuen Erakundeak (NBE) zehaztutako
-adierazleaz bestelako datu batzuk ditu. Adierazle hau da gaur egun aurkitu den 
-estatistiketatik egokiena dena.
+  adierazleaz bestelako datu batzuk ditu. Adierazle hau da gaur egun aurkitu den 
+  estatistiketatik egokiena dena.
 note: oharra
 announce_series_switched: Grafiko eta taula eguneratuak serie desberdin bat erakusteko.
 announce_unit_switched: Grafiko eta taula eguneratuak, unitate desberdin bat erakusteko.
