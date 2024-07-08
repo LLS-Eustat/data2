@@ -29,15 +29,15 @@ loading: 'Kargatzen'
 loading_map: 'Mapa kargatzen'
 map: 'Mapa'
 national_metadata: 'Metadatu nazionalak'
-national_metadata_blurb: 'Taula honek GJHen adierazletik hurbilen dagoen eta eskuragarria den %country.adjective adierazle errealerako metadatuak ematen ditu.'
-Kontuan izan %country.adjective GJHen adierazle globala guztiz eskuragarri denean ere,'
-taula hau kontsultatu daitekeela metodologia nazionalari eta metadatu espezifikoei '
-buruzko informazioa lortzeko.'
+national_metadata_blurb: 'Taula honek GJHen adierazletik hurbilen dagoen eta eskuragarria den %country.adjective adierazle errealerako metadatuak ematen ditu.
+    Kontuan izan %country.adjective GJHen adierazle globala guztiz eskuragarri denean ere,
+    taula hau kontsultatu daitekeela metodologia nazionalari eta metadatu espezifikoei
+    buruzko informazioa lortzeko.'
 no_data_hint: 'Ez dago aukerarik eskuragarri aurreko aukeraketak direla eta'
 select_all: 'Dena hautatu'
 series: 'Seriea'
-series_help: 'Datuen desagregazioak ikusteko, aukeratu jarraian goitibeherako zerrenden kategoriak. '
-Batzuk ez dira erabilgarri egongo goragoko mailan kategoriaren bat aukeratu arte'
+series_help: 'Datuen desagregazioak ikusteko, aukeratu jarraian goitibeherako zerrenden kategoriak.
+    Batzuk ez dira erabilgarri egongo goragoko mailan kategoriaren bat aukeratu arte'
 source: 'Iturria'
 sources: 'Iturriak'
 sub_categories: 'Azpikategoriak'
