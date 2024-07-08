@@ -1,3 +1,5 @@
+country_name: Euskadi
+country_adjective: vasco
 heading: "Datos de %country.name para los indicadores de los Objetivos de Desarrollo\
   \ Sostenible"
 instructions: Haga clic en un objetivo o utilice la %before_link búsqueda %after_link
@@ -17,5 +19,3 @@ instructions_short: Haga clic en cada objetivo para ver los datos del indicador 
   de los Objetivos de Desarrollo Sostenible de %country.name.
 instructions_shorter: Seleccione cada objetivo para los datos del indicador.
 file_size: Tamaño
-country_name: Euskadi
-country_adjective: vasco
