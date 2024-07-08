@@ -59,8 +59,8 @@ map_year_slider: 'Urteko irristagailua'
 chart_annotation: 'Grafiko batean idaztea'
 annotation_2030_target: '2030erako adierazlearen helburua'
 plot_legend_description: 'Grafikoaren legenda: grafikoan sartutako lerroen zerrenda'
-data_keyboard_navigation: 'Sakatu Enter datu-puntuetan'
-ezkerreko eta eskuineko gezi-teklekin.'
+data_keyboard_navigation: 'Sakatu Enter datu-puntuetan
+    ezkerreko eta eskuineko gezi-teklekin.'
 data_tabular_alternative: 'Datuak taula forman ikusteko, joan Taula pestaña.'
 announce_data_removed: 'Grafiko eta taula eguneratuak datuak kentzeko.'
 announce_data_added: 'Grafiko eta taula eguneratuak datuak sartzeko.'
@@ -95,4 +95,4 @@ proxy_description: 'Adierazle honek Nazio Batuen Erakundeak (NBE) zehaztutako
 note: 'oharra'
 announce_series_switched: 'Grafiko eta taula eguneratuak serie desberdin bat erakusteko.'
 announce_unit_switched: 'Grafiko eta taula eguneratuak, unitate desberdin bat erakusteko.'
-'
+
