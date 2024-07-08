@@ -8,3 +8,5 @@ heading_short: '%country.adjective Garapen Jasangarrirako Helburuen datuak'
 instructions_short: 'Egin klik helburu bakoitzean Garapen Iraunkorreko Helburuen adierazle globalen %country.adjective datuak ikusteko.'
 instructions_shorter: 'Hautatu helburu bakoitza adierazlearen datuetarako.'
 file_size: Tamaina
+country_name: Euskal Herria
+country_adjective: eskaldun
