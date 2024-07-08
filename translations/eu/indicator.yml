@@ -1,6 +1,6 @@
 chart: 'Grafikoa'
 clear_all: 'Dena garbitu'
-clear_selections: 'Ezabatu aukeraketak
+clear_selections: 'Ezabatu aukeraketak'
 data_not_available: 'Informazio hau ez dago eskuragarri. Aukeratu datu alternatiboak erakusteko.'
 dataset_size_warning: 'Datu gehiegi daude grafikoan erakusteko.Dena ez da erakutsiko selekzio batzuk kendu arte.'
 download_chart: 'Deskargatu grafikoko datuak (.csv)'
