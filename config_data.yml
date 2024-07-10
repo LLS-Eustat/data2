@@ -78,7 +78,7 @@ translations:
   # This pulls in translations from a LOCAL Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/LLS-PoC/translations.git    
-    tag: 2.4.0
+    tag: 2.4.0-dev
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
