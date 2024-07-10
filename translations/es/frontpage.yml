@@ -19,4 +19,4 @@ instructions_shorter: Seleccione cada objetivo para los datos del indicador
 file_size: Tamaño
 country_name: Euskadi
 country_adjective: vasco
-#goal_image_base: https://github.com/LLS-PoC/translations.git 
+goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
